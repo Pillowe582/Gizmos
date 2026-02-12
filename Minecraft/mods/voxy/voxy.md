@@ -1,0 +1,3 @@
+### 简要介绍
+- 原仓库为`https://github.com/j-shelfwood/voxy-neoforge`，为voxy的Neoforge 1.21.1非官方移植版，我只是将其构建成了.jar
+- 目前游戏内运行`/voxy import world "xxx"`会类似报错`Exception importing world chunk: java.lang.NullPointerException: Cannot invoke "com.mojang.serialization.Codec.parse(com.mojang.serialization.DynamicOps, Object)" because "com.mojang.serialization.Codec.parse(com.mojang.serialization.DynamicOps, Object)" is null`，不知是不是构建的原因
